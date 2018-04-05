@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "next -p 3001",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/react": "^16.3.5",
+    "@types/react-dom": "^16.0.4",
+    "apollo-boost": "^0.1.4",
+    "graphql": "^0.13.2",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^5.1.0",
+    "react": "^16.3.1",
+    "react-apollo": "^2.1.0-beta.3",
+    "react-dom": "^16.3.1",
+    "typescript": "^2.8.1"
+  }
+}
