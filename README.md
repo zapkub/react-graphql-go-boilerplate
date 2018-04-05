@@ -1,7 +1,10 @@
-# React GraphQL Go Boilerplate !!
-(VERY) Simple setup for React with Server side rendering ( NextJS ) with GraphQL server serve by Go.
+<img src="./assets/go-react.png" width="250" />
 
-I am now trying to avoid Javascript as much as I can (due to personal opinion)
+# React GraphQL Go Boilerplate !!
+
+**(VERY)** Simple setup for React with Server side rendering ( NextJS ) with GraphQL server serve by Go.
+
+> I am now trying to avoid Javascript as much as I can (due to personal opinion)
 
 # Development
 
