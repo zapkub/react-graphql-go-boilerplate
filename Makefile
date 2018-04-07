@@ -10,7 +10,7 @@ build-client:
 	cd client&&yarn build
 
 serve-client: build-client
-	cd client&&yarn serve
+	cd client&&yarn dev
 
 serve-server:
 	go run main.go
