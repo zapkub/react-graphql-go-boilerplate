@@ -14,14 +14,16 @@
 - nodejs 8.9 ++
 
 ```
-// will reload Go and Javascript dependencies
-$ make prepare 
+
+// prepare
+$ yarn install
+$ dep ensure -v
 
 // run go server
-$ make serve-server 
+$ make dev-server 
 
 // build and run client server
-$ make serve-client 
+$ make dev-client 
 
 
 // Go to http://localhost:3000
